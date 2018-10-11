@@ -752,3 +752,24 @@ footer h3 {
     font-size: 14px;
   }
 }
+
+/*.copyright {*/
+    /*font-size: 1px !important;*/
+    /*line-height: 1px !important;*/
+/*}*/
+
+.carousel-inner > .item > img {
+    width: 100% !important;
+}
+
+/*Foods Image*/
+#services img {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+marquee {
+    width: 100%;
+    background-color: lightyellow;
+    color: red;
+}
